@@ -1,0 +1,20 @@
+{
+  "pub_key": "BLS_VER_KEY~Gcib0K1mt4deH0FE-_3egFh6SDtjgY3OjnQ6f-DW8h7GNX8BncUFjyXkuzoBo85gJn8-MVeM_pmSWya0PevLFFPrhGkWesv8jJdjX1tjuVdbycR3RwrFZyZC7UhnKq8oLUueiYiw0VGy4n1O-RJCuomwgKWV2mMR-X9nFP53cgAw",
+  "name": "LUGANODES",
+  "description": "LUGANODES DA Node",
+  "company_name": "LUGANODES",
+  "company_website": "https://www.luganodes.com/",
+  "client_version": "20250228-patch3",
+  "icon": {
+    "14x14": {
+      "@1x": "https://raw.githubusercontent.com/Luganodes/meta-assets/main/logos/icon-14-x-14-light.png",
+      "@2x": "https://raw.githubusercontent.com/Luganodes/meta-assets/main/logos/icon-14-x-14-light@2x.png",
+      "@3x": "https://raw.githubusercontent.com/Luganodes/meta-assets/main/logos/icon-14-x-14-light@3x.png"
+    },
+    "24x24": {
+      "@1x": "https://raw.githubusercontent.com/Luganodes/meta-assets/main/logos/icon-24-x-24-light.png",
+      "@2x": "https://raw.githubusercontent.com/Luganodes/meta-assets/main/logos/icon-24-x-24-light@2x.png",
+      "@3x": "https://raw.githubusercontent.com/Luganodes/meta-assets/main/logos/icon-24-x-24-light@3x.png"
+    }
+  }
+}
